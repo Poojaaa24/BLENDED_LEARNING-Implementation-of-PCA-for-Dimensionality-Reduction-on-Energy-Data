@@ -62,7 +62,12 @@ plt.show()
 ```
 
 ## Output:
+## OUTPUT
+![Output1](Screenshot%202026-03-15%20213932.png)
 
+![Output2](Screenshot%202026-03-15%20213939.png)
+
+![Output3](Screenshot%202026-03-15%20213949.png)
 
 
 ## Result:
